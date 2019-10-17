@@ -1,0 +1,19 @@
+Ok this is a full recap so far and a task for you to do
+You have some tasks to do as follows
+
+1. Create a new folder in the AWS environment called recap - Done
+2. Create a file in the folder called index.html - Done
+3. inside the file you must create the html shell layout for a page -- Done
+
+with the page 
+
+1. change the title to something nice -- Done
+2. create a table with 5 cells in the top row for HOME ABOUT PRODUCTS CONTACT HELP -- Done
+3. Change the style of the cells to look nice (Background color, font color and font size) -- Done
+
+4 on the second row of the table I want you to create some content in here you must use some different html tags -- Done
+
+
+OK lets go 
+
+I will walk you through this.....
